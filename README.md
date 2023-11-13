@@ -1,3 +1,8 @@
+原项目地址：https://github.com/woshimanong1990/passport_photo_maker
+增加了 一寸 俩寸按钮
+
+
+
 # passport_photo_maker
 证件照制作
 
