@@ -20,6 +20,7 @@
 2 在data/settings.json中配置api key
 
 3 安装 requiements.txt中的依赖
+ pip install -r requirements.txt -c http://mirrors.aliyun.com/anaconda/pkgs/main
 
 4 python lancher.py 
 
